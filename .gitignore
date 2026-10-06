@@ -37,13 +37,5 @@ data/disease/PlantVillage-Dataset/
 ml/dataset/crop_disease/
 ml/dataset/yield/
 
-# Trained ML models
-backend/models/
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# Editor
-.vscode/
-.idea/
+# Unused old yield model
+backend/models/yield_model/potato_yield_model.pkl
